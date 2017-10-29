@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cogknit/project/VRDLMeetup/research/models/trained_models/demo/my_test_model"
+all_model_checkpoint_paths: "/home/cogknit/project/VRDLMeetup/research/models/trained_models/demo/my_test_model"

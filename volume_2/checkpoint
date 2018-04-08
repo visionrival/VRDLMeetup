@@ -1,2 +1,2 @@
-model_checkpoint_path: "dogs-cats-model"
-all_model_checkpoint_paths: "dogs-cats-model"
+model_checkpoint_path: "/home/cogknit/project/VRDLMeetup/volume_2/dogs-cats-model"
+all_model_checkpoint_paths: "/home/cogknit/project/VRDLMeetup/volume_2/dogs-cats-model"
